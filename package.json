@@ -2,7 +2,6 @@
   "name": "react-github-pages-example",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://chygai232.github.io/react-github-pages-example",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
