@@ -17,7 +17,6 @@ function App() {
         </a>
       </div>
       <h1>React Github Pages Example</h1>
-      <h2>Add Test Page</h2>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
@@ -28,9 +27,6 @@ function App() {
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
-      </p>
-      <p>
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas tempora fugit maiores assumenda, obcaecati magnam laboriosam! Perferendis recusandae maxime aperiam nobis vel, magnam minus pariatur dolor illo, consequatur iusto voluptas!
       </p>
     </>
   )
